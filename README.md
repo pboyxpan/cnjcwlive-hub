@@ -1,2 +1,14 @@
 # cnjcwlive-hub
-HTML page archive and documentation
+
+静态内容发布记录
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 任务说明
+
+页面会按发布任务逐步生成，仓库仅保存最终文件。
